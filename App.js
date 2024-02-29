@@ -6,7 +6,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 function HomeScreen({ navigation }) {
   return (
     <ImageBackground
-      source={{ uri: 'https://www.papeldeparede.etc.br/fotos/wp-content/uploads/kanye-west_4484_1024x768.jpg' }}
+      source={{ uri: 'https://preview.redd.it/kanye-west-graduation-3840x2160-v0-kjektcn4myv91.png?auto=webp&s=09ab551caf64aa606dc8720953ad6abaca36c079' }}
       style={{ flex: 1, alignItems: 'center', justifyContent: 'center', resizeMode: 'cover' }}
     >
       <View style={{ backgroundColor:   '#fff', padding: 20, borderRadius: 10 }}>
