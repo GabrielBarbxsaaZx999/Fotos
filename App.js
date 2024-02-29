@@ -60,6 +60,9 @@ function JardimScreen() {
         source={require('./jardim.jpeg')}
         style={{ width: 800, height: 600 }}
       />
+      <Text style={{ fontSize: 25, fontFamily: 'Arial', fontWeight: 'bold', color: '#333' }}>
+        Escolha de: Vitor Hugo
+        </Text>
 
 
     </View>
@@ -76,6 +79,10 @@ function BiblioScreen() {
         source={require('./biblio.jpeg')}
         style={{ width: 800, height: 600 }}
       />
+      <Text style={{ fontSize: 25, fontFamily: 'Arial', fontWeight: 'bold', color: '#333' }}>
+        Escolha de: João Guilheme
+        </Text>
+
     </View>
   );
 }
@@ -91,6 +98,10 @@ function Bib2Screen() {
         source={require('./bib2.jpeg')}
         style={{ width: 800, height: 600 }}
       />
+      <Text style={{ fontSize: 25, fontFamily: 'Arial', fontWeight: 'bold', color: '#333' }}>
+        Escolha de: Victor Calori
+        </Text>
+
     </View>
   );
 }
@@ -105,6 +116,10 @@ function AlmossoScreen() {
         source={require('./almosso.jpeg')}
         style={{ width: 800, height: 600 }}
       />
+      <Text style={{ fontSize: 25, fontFamily: 'Arial', fontWeight: 'bold', color: '#333' }}>
+        Escolha de: Gustavo
+        </Text>
+
     </View>
   );
 }
@@ -119,6 +134,10 @@ function SaidaScreen() {
         source={require('./saida.jpeg')}
         style={{ width: 800, height: 600 }}
       />
+      <Text style={{ fontSize: 25, fontFamily: 'Arial', fontWeight: 'bold', color: '#333' }}>
+        Escolha de: Gabriel
+        </Text>
+
     </View>
   );
 }
